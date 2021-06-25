@@ -1,6 +1,6 @@
 # p5.play-boilerplate
 Boiler plate for p5.play
-//Title of the game - 
+//Title of the game - Harshil's Escape Rooms
 
 
 //Playing Character (PC) - 
